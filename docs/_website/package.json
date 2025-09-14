@@ -11,9 +11,9 @@
   },
   "dependencies": {
     "@algolia/client-search": "^4.14.2",
-    "@docusaurus/core": "^2.0.0-beta",
+    "@docusaurus/core": "^3.0.0",
     "@docusaurus/plugin-debug": "^2.0.0-beta",
-    "@docusaurus/preset-classic": "^2.0.0-beta",
+    "@docusaurus/preset-classic": "^3.0.0",
     "classnames": "^2.2.6",
     "prismjs": "^1.21.0",
     "react": "^17.0.0",
