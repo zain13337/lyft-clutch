@@ -10,7 +10,7 @@
     "lint:fix": "yarn run lint --fix"
   },
   "dependencies": {
-    "@algolia/client-search": "^4.14.2",
+    "@algolia/client-search": "^4.25.2",
     "@docusaurus/core": "^2.0.0-beta",
     "@docusaurus/plugin-debug": "^2.0.0-beta",
     "@docusaurus/preset-classic": "^2.0.0-beta",
