@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@clutch-sh/core": "workspace:^",
-    "lodash": "^4.17.0",
+    "lodash": "^4.17.23",
     "react-hook-form": "^7.25.3"
   },
   "devDependencies": {
