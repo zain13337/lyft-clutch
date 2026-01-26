@@ -25,7 +25,7 @@
     "@clutch-sh/core": "workspace:^",
     "@clutch-sh/data-layout": "workspace:^",
     "@clutch-sh/wizard": "workspace:^",
-    "lodash": "^4.17.0",
+    "lodash": "^4.17.23",
     "yup": "^0.32.8"
   },
   "devDependencies": {
