@@ -27,7 +27,7 @@
     "@clutch-sh/data-layout": "workspace:^",
     "@clutch-sh/wizard": "workspace:^",
     "@hookform/resolvers": "2.8.8",
-    "lodash": "^4.17.0",
+    "lodash": "^4.17.23",
     "react-hook-form": "^7.25.3",
     "react-timeago": "^7.0.0",
     "yup": "^0.32.8"
